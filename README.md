@@ -23,5 +23,5 @@
 
 ## Week 3
 
-- W3_DAY#1_Code_NumPy_Pandas: [Python - 4 / NumPy - Pandas](https://colab.research.google.com/drive/1Q3VknzgJ4ui3p_6Hq5TzeJ2Dx1BLKa8h?usp=sharing)
-- W3_Homework_3: [Homework 3](https://colab.research.google.com/drive/1uYpjEvZqnfAxpyqO7KdDyT5jpdTCNeow?usp=sharing)
+- W3_DAY#1_Code_NumPy_Pandas: [Python - 4 / NumPy - Pandas](https://colab.research.google.com/drive/1uYpjEvZqnfAxpyqO7KdDyT5jpdTCNeow?usp=sharing)
+- W3_Homework_3: [Homework 3](https://colab.research.google.com/drive/1Q3VknzgJ4ui3p_6Hq5TzeJ2Dx1BLKa8h?usp=sharing)
