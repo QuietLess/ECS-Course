@@ -11,3 +11,7 @@ W2_DAY#1_Code: [W2_DAY#1](https://colab.research.google.com/drive/1byLroGf3FdVNv
 W2_DAY#2_Code: [W2 DAY#2](https://colab.research.google.com/drive/1BhcGTPh1sJJDxP4vxx-mGx0q6k6UmrAU?usp=sharing)
 
 W2_DAY#2_Code - NumPy and Pandas: [W2 DAY#2 - NumPy and Pandas](https://colab.research.google.com/drive/1uYpjEvZqnfAxpyqO7KdDyT5jpdTCNeow?usp=sharing)
+
+
+
+W3_DAY#2_Code - Homework: [W3 DAY#2 - Homework]([https://colab.research.google.com/drive/1uYpjEvZqnfAxpyqO7KdDyT5jpdTCNeow?usp=sharing])
