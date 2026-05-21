@@ -25,3 +25,11 @@
 
 - W3_DAY#1_Code_NumPy_Pandas: [Python - 4 / NumPy - Pandas](https://colab.research.google.com/drive/1Q3VknzgJ4ui3p_6Hq5TzeJ2Dx1BLKa8h?usp=drive_link)
 - W3_Homework_3: [Homework 3](https://colab.research.google.com/drive/12iv8JT-_qxuqnl9og0Zj1u8aY8ZJT95S?usp=drive_link)
+- W3_DAY#2_Code: [Pandas - 1](https://colab.research.google.com/drive/191-Z-3gQGILs2Lc3JNYZP9FgTAuqUcbA?usp=sharing)
+- W3_DAY#2_Code_2: [Tips Dataset Analysis](https://colab.research.google.com/drive/1CnxdBYHrjbXQoyWPAiuqTJ89Kcz95ufd?usp=sharing)
+
+
+
+
+
+
