@@ -37,7 +37,16 @@
 
 ## Week 5
 
-- W5_DAY#1_Code: [Titanic](https://www.kaggle.com/code/tolgadeirmenci/titanic)
+- W5_DAY#1_Code: [Titanic - 1](https://www.kaggle.com/code/tolgadeirmenci/titanic)
 
+---
 
+## Make-up Class
 
+- Make-up_Session_Code: [Titanic - 2](https://www.kaggle.com/code/tolgadeirmenci/titanic)
+
+---
+
+## Week 6
+
+- W6_DAY#1_Code: [Titanic - 3](https://www.kaggle.com/code/tolgadeirmenci/titanic)
