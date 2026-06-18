@@ -50,3 +50,4 @@
 ## Week 6
 
 - W6_DAY#1_Code: [Titanic - 3](https://www.kaggle.com/code/tolgadeirmenci/titanic)
+- W6_DAY#2_Code: [Car Price Prediction](https://colab.research.google.com/drive/1WRGp9mXVMyB4rhwz2-gicWkQ7sHZXx5_?usp=sharing)
