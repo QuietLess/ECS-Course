@@ -56,8 +56,8 @@ This repository contains my weekly course materials, homework assignments, noteb
 
 ---
 
-## 📝 Important Notes
-
-* Hafta 7 ödevindeki Hugging Face projesinin `requirements.txt` dosyasında `pandas` sürümü `2.2.3` olarak güncellenmelidir.
-* Gradio formu Colab ortamında optimize görünmediğinden alternatif olarak Google AGY / Antigravity şablonu ve örnek data kullanılmıştır.
-* Tüm sürece Kurs Programı üzerinden erişilebilir.
+> 💡 **Önemli Notlar:**
+>
+> - Hafta 7 ödevindeki Hugging Face projesinin `requirements.txt` dosyasında pandas sürümü `2.2.3` olarak güncellenmelidir.
+> - Gradio formu Colab ortamında optimize görünmediğinden alternatif olarak [Google AGY (Antigravity) Şablonu](LINK_BURAYA) ve [Örnek Data](LINK_BURAYA) kullanılmıştır.
+> - Tüm sürece [Kurs Programı](LINK_BURAYA) üzerinden erişilebilir.
