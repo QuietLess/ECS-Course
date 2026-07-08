@@ -51,9 +51,21 @@ This repository contains my weekly course materials, homework assignments, noteb
 
 ## 📁 Model Files
 
-| Model          | Description                                                    | Link                                                                              |
-| -------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Model | Description | Link |
+|---|---|---|
 | `car_pipe.pkl` | Machine learning pipeline for second-hand car price prediction | [View File](https://github.com/QuietLess/ECS-Course/blob/main/model/car_pipe.pkl) |
+
+---
+
+## 📊 Data Files
+
+All datasets used throughout the course are stored in the repository's data folder.
+
+| File | Description | Link |
+|---|---|---|
+| `form.csv` | Sample data used for the Week 7 Gradio interface project | [View File](https://github.com/QuietLess/ECS-Course/raw/main/data/form.csv) |
+
+[View All Data Files](https://github.com/QuietLess/ECS-Course/tree/main/data)
 
 ---
 
