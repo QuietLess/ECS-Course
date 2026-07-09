@@ -62,15 +62,15 @@ This repository contains my weekly course materials, homework assignments, noteb
 
 ## 📊 Data Files
 
-All datasets used throughout the course are stored in the repository's data folder.
+All datasets used throughout the course are available in the repository's [`data`](https://github.com/QuietLess/ECS-Course/tree/main/data) folder.
 
 | File | Description | Link |
 |---|---|---|
-| `form.csv` | Sample data used for the Week 7 Gradio interface project | [View File](https://github.com/QuietLess/ECS-Course/raw/main/data/form.csv) |
-
-[View All Data Files](https://github.com/QuietLess/ECS-Course/tree/main/data)
-
----
+| `cars.xls` | Dataset used for the car price prediction project | [View File](https://github.com/QuietLess/ECS-Course/blob/main/data/cars.xls) |
+| `form.csv` | Sample data used for the Week 7 Gradio interface project | [View File](https://github.com/QuietLess/ECS-Course/blob/main/data/form.csv) |
+| `corona_dat.csv` | COVID-19 dataset used for the Week 7 racing chart project | [View File](https://github.com/QuietLess/ECS-Course/blob/main/data/corona_dat.csv) |
+| `dunya_nufus_degisimi.csv` | World population change dataset used for visualization practice | [View File](https://github.com/QuietLess/ECS-Course/blob/main/data/dunya_nufus_degisimi.csv) |
+| `turkiye_il_nufuslari.csv` | Turkey city population dataset used for visualization practice | [View File](https://github.com/QuietLess/ECS-Course/blob/main/data/turkiye_il_nufuslari.csv) |
 
 > 💡 **Önemli Notlar:**
 >
