@@ -32,6 +32,7 @@ This repository contains my weekly course materials, homework assignments, noteb
 | Week 7 | Day 2 - Code | Developing an Interface with Gradio | Colab | [Open](https://colab.research.google.com/drive/1WzYubFxtxuP35BU7gjPwx1tLRSkjsZ7w?usp=sharing) |
 | Week 7 | Day 3 - Code | W7 - Covid-Yarışan Grafikler | Colab | [Open](https://colab.research.google.com/drive/1-simtwjoRDJ5MDuURSZua7nlEk9IGSWn?usp=sharing) |
 | Week 7 | Homework 2 | Nüfus Değ. Grafiği | Colab | [Open](https://colab.research.google.com/drive/1-simtwjoRDJ5MDuURSZua7nlEk9IGSWn?usp=sharing) |
+| Week 7 | Day 3 - Code Part 2 | Fetching Data from Different Platforms | Colab | [Open](https://colab.research.google.com/drive/1k_5cHDMRg-uzyQ3dM8COU6M30Ams_HYp?usp=sharing) |
 
 ---
 
@@ -48,9 +49,12 @@ This repository contains my weekly course materials, homework assignments, noteb
 * Model saving and usage
 * Gradio interface development
 * Hugging Face Spaces deployment
-*  Racing bar charts
-*  Data visualization with COVID-19 data
-*  Population change visualization
+* Racing bar charts
+* Data visualization with COVID-19 data
+* Population change visualization
+* Fetching data from different online platforms
+* Reading HTML tables with Pandas
+* Working with external data sources
 
 ---
 
