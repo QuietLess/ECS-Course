@@ -28,9 +28,10 @@ This repository contains my weekly course materials, homework assignments, noteb
 | Week 6 | Day 1 | Code | Titanic - 3 | Kaggle | [Open](https://www.kaggle.com/code/tolgadeirmenci/titanic) |
 | Week 6 | Day 2 | Code | Car Price Prediction | Colab | [Open](https://colab.research.google.com/drive/1WRGp9mXVMyB4rhwz2-gicWkQ7sHZXx5_?usp=sharing) |
 | Week 7 | Day 1 | Model | Second-hand Car Price Prediction Model | GitHub | [View File](https://github.com/QuietLess/ECS-Course/blob/main/model/car_pipe.pkl) |
-| Week 7 | Homework | Homework | Second-hand Car Price Prediction Website | Hugging Face Spaces | [Open App](https://huggingface.co/spaces/QuietLess/CarPricePrediction) |
+| Week 7 | Homework 1 | Homework | Second-hand Car Price Prediction Website | Hugging Face Spaces | [Open App](https://huggingface.co/spaces/QuietLess/CarPricePrediction) |
 | Week 7 | Day 2 | Code | Developing an Interface with Gradio | Colab | [Open](https://colab.research.google.com/drive/1WzYubFxtxuP35BU7gjPwx1tLRSkjsZ7w?usp=sharing) |
 | Week 7 | Day 3 | Code | W7 - Covid-Yarışan Grafikler | Colab | [Open](https://colab.research.google.com/drive/1-simtwjoRDJ5MDuURSZua7nlEk9IGSWn?usp=sharing) |
+| Week 7 | Homework 2 | Homework | Nüfus Değ. Grafiği | Colab | [Open](https://colab.research.google.com/drive/1-simtwjoRDJ5MDuURSZua7nlEk9IGSWn?usp=sharing) |
 
 ---
 
@@ -49,6 +50,7 @@ This repository contains my weekly course materials, homework assignments, noteb
 * Hugging Face Spaces deployment
 *  Racing bar charts
 *  Data visualization with COVID-19 data
+*  Population change visualization
 
 ---
 
