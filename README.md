@@ -34,6 +34,7 @@ This repository contains my weekly course materials, homework assignments, noteb
 | Week 7 | Homework 2 | Nüfus Değ. Grafiği | Colab | [Open](https://colab.research.google.com/drive/1-simtwjoRDJ5MDuURSZua7nlEk9IGSWn?usp=sharing) |
 | Week 7 | Day 3 - Code Part 2 | Fetching Data from Different Platforms | Colab | [Open](https://colab.research.google.com/drive/1k_5cHDMRg-uzyQ3dM8COU6M30Ams_HYp?usp=sharing) |
 | Week 7 | Day 3 - Code Part 3 | Bing Image Downloader | Colab | [Open](https://colab.research.google.com/drive/1bNk7qL_y0zqBtVSzbLbs63JpAuFPUx1d?usp=sharing) |
+| Week 8 | Day 1 - Code | Advanced Topics | Colab | [Open](https://colab.research.google.com/drive/1KH3GV7qoM_UqApk8iSHm8M20DJCMU_6x?usp=drive_link) |
 
 ---
 
@@ -82,5 +83,5 @@ All datasets used throughout the course are available in the repository's [`data
 > 💡 **Önemli Notlar:**
 >
 > - Hafta 7 ödevindeki Hugging Face projesinin `requirements.txt` dosyasında pandas sürümü `2.2.3` olarak güncellenmelidir.
-> - Gradio formu Colab ortamında optimize görünmediğinden alternatif olarak [Developing an Interface with Gradio](https://colab.research.google.com/drive/1WzYubFxtxuP35BU7gjPwx1tLRSkjsZ7w?usp=sharing) ve [Örnek Data](https://github.com/QuietLess/ECS-Course/raw/main/data/form.csv) kullanılmıştır.
+> - Gradio formu Colab ortamında optimize görünmediğinden alternatif olarak [Developing an Interface with Gradio](https://colab.research.google.com/drive/1WzYubFxtxuP35BU7gjPwx1tLRSkjsZ7w?usp=sharing) kullanılabilir.
 > - Tüm sürece [Kurs Programı](LINK_BURAYA) üzerinden erişilebilir.
