@@ -84,5 +84,5 @@ All datasets used throughout the course are available in the repository's [`data
 > 💡 **Önemli Notlar:**
 >
 > - Hafta 7 ödevindeki Hugging Face projesinin `requirements.txt` dosyasında pandas sürümü `2.2.3` olarak güncellenmelidir.
-> - Gradio formu Colab ortamında optimize görünmediğinden alternatif olarak [Developing an Interface with Gradio](https://colab.research.google.com/drive/1WzYubFxtxuP35BU7gjPwx1tLRSkjsZ7w?usp=shar[...]
+> - Gradio formu Colab ortamında optimize görünmediğinden alternatif olarak [Developing an Interface with Gradio](https://colab.research.google.com/drive/1WzYubFxtxuP35BU7gjPwx1tLRSkjsZ7w?usp=shar[...])
 > - Tüm sürece [Kurs Programı](LINK_BURAYA) üzerinden erişilebilir.
