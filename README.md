@@ -57,6 +57,7 @@ This repository contains my weekly course materials, homework assignments, noteb
 * Fetching data from different online platforms
 * Reading HTML tables with Pandas
 * Working with external data sources
+* Customer churn analysis
 
 ---
 
