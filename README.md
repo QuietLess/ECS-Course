@@ -43,23 +43,18 @@ This repository contains my weekly course materials, homework assignments, noteb
 ## 🧠 Topics Covered
 
 * Python fundamentals
-* NumPy
-* Pandas
+* Data analysis with NumPy and Pandas
 * Exploratory data analysis
-* Titanic dataset analysis
 * Data preprocessing
 * Machine learning basics
+* Titanic dataset analysis
 * Car price prediction
-* Model saving and usage
-* Gradio interface development
-* Hugging Face Spaces deployment
-* Racing bar charts
-* Data visualization with COVID-19 data
-* Population change visualization
-* Fetching data from different online platforms
-* Reading HTML tables with Pandas
-* Working with external data sources
 * Customer churn analysis
+* Time series analysis
+* Recommendation systems
+* Data visualization and racing charts
+* Fetching data from different online platforms
+* Web-based model deployment with Gradio and Hugging Face Spaces
 
 ---
 
