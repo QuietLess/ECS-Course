@@ -36,7 +36,7 @@ This repository contains my weekly course materials, homework assignments, noteb
 | Week 7 | Day 3 - Code Part 3 | Bing Image Downloader | Colab | [Open](https://colab.research.google.com/drive/1bNk7qL_y0zqBtVSzbLbs63JpAuFPUx1d?usp=sharing) |
 | Week 8 | Day 1 - Code | Customer Churn Analysis | Colab | [Open](https://colab.research.google.com/drive/1KH3GV7qoM_UqApk8iSHm8M20DJCMU_6x?usp=drive_link) |
 | Week 8 | Day 2 - Code | Time Series | Colab | [Open](https://colab.research.google.com/drive/1mbbJkfulqcdiSF7J0MulZ801EWm3DvoO?usp=sharing) |
-| Week 8 | Day 3 - Code | Recommendation Systems - Day 3 | Colab | [Open](https://colab.research.google.com/drive/1MoNjMXPIgA5S5UTk5e5aJhPzI_jB4iCr?usp=sharing) |
+| Week 8 | Day 3 - Code | Recommendation Systems | Colab | [Open](https://colab.research.google.com/drive/1MoNjMXPIgA5S5UTk5e5aJhPzI_jB4iCr?usp=sharing) |
 
 ---
 
