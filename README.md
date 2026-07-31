@@ -38,6 +38,8 @@ This repository contains my weekly course materials, homework assignments, noteb
 | Week 8 | Day 2 - Code | Time Series | Colab | [Open](https://colab.research.google.com/drive/1mbbJkfulqcdiSF7J0MulZ801EWm3DvoO?usp=sharing) |
 | Week 8 | Day 3 - Code | Recommendation Systems | Colab | [Open](https://colab.research.google.com/drive/1C9dPwN9x82Ja0y5shBe8M7HRkHmpvBcd?usp=sharing) |
 | Week 9 | Day 1 - Homework | Content-Based Recommendation Interface | Colab | [Open](https://colab.research.google.com/drive/1C9dPwN9x82Ja0y5shBe8M7HRkHmpvBcd?usp=sharing) |
+| Week 9 | Day 3 - Code | HF Model Deploy | Colab | [Open](https://colab.research.google.com/drive/1Ldnqwlb06iB2fgK8db_fVch2FvanEeTF?usp=sharing) |
+| Week 10 | Day 1 - Code | HF Sentiment Analysis Model | Colab | [Open](https://colab.research.google.com/drive/1yA3OgfDACKLH-cUK6wBPS2wpWtp4mOOt?usp=sharing) |
 | Week 10 | Day 3 - Code | News Summarization - HF Model | Colab | [Open](https://colab.research.google.com/drive/1rhvOTFBRpdR55L_O3P_CXxom5GC30roo?usp=sharing) |
 
 ---
@@ -55,6 +57,7 @@ This repository contains my weekly course materials, homework assignments, noteb
 * Time series analysis
 * Recommendation systems
 * Content-based recommendation interface
+* Sentiment analysis
 * Data visualization and racing charts
 * Fetching data from different online platforms
 * Web-based model deployment with Gradio and Hugging Face Spaces
@@ -86,4 +89,6 @@ All datasets used throughout the course are available in the repository's [`data
 > - Hafta 7 ödevindeki Hugging Face projesinin `requirements.txt` dosyasında pandas sürümü `2.2.3` olarak güncellenmelidir.
 > - Gradio formu Colab ortamında optimize görünmediğinden alternatif olarak [Developing an Interface with Gradio](https://colab.research.google.com/drive/1WzYubFxtxuP35BU7gjPwx1tLRSkjsZ7w?usp=sharing) kullanılabilir.
 > - Hafta 9 ödevinde "Content-Based Recommendation Interface" projesi, Colab not defterinin sonunda uygulanmaktadır.
+> - Hafta 9: HF Model Deploy Colab not defteri eklendi: https://colab.research.google.com/drive/1Ldnqwlb06iB2fgK8db_fVch2FvanEeTF?usp=sharing
+> - Hafta 10: HF Sentiment Analysis Model Colab not defteri eklendi: https://colab.research.google.com/drive/1yA3OgfDACKLH-cUK6wBPS2wpWtp4mOOt?usp=sharing
 > - Tüm sürece [Kurs Programı](LINK_BURAYA) üzerinden erişilebilir.
