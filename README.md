@@ -33,8 +33,8 @@ This repository documents my weekly course materials, assignments, notebooks, da
 | Week 8 | Day 3 · Code | Recommendation Systems | [Open in Colab](https://colab.research.google.com/drive/1C9dPwN9x82Ja0y5shBe8M7HRkHmpvBcd?usp=sharing) |
 | Week 9 | Day 1 · Homework | Content-Based Recommendation Interface | [Open in Colab](https://colab.research.google.com/drive/1C9dPwN9x82Ja0y5shBe8M7HRkHmpvBcd?usp=sharing) |
 | Week 9 | Day 3 · Code | Hugging Face Model Deployment | [Open in Colab](https://colab.research.google.com/drive/1Ldnqwlb06iB2fgK8db_fVch2FvanEeTF?usp=sharing) |
-| Week 10 | Day 1 · Code | Hugging Face Sentiment Analysis Model | [Open in Colab](https://colab.research.google.com/drive/1yA3OgfDACKLH-cUK6wBPS2wpWtp4mOOt?usp=sharing) · [View Data](https://github.com/QuietLess/ECS-Course/blob/main/data/yorumlar_duygu_dataset.csv) |
-| Week 10 | Day 3 · Code | News Summarization with Hugging Face | [Open in Colab](https://colab.research.google.com/drive/1rhvOTFBRpdR55L_O3P_CXxom5GC30roo?usp=sharing) · [View Data](https://github.com/QuietLess/ECS-Course/blob/main/data/train-00000-of-00001.parquet) |
+| Week 10 | Day 1 · Code | Hugging Face Sentiment Analysis Model | [Open in Colab](https://colab.research.google.com/drive/1yA3OgfDACKLH-cUK6wBPS2wpWtp4mOOt?usp=sharing) · [View Data](https://github.com/QuietLess/ECS-Course/blob/main/data/train-00000-of-00001.parquet) |
+| Week 10 | Day 3 · Code | News Summarization with Hugging Face | [Open in Colab](https://colab.research.google.com/drive/1rhvOTFBRpdR55L_O3P_CXxom5GC30roo?usp=sharing) |
 
 ---
 
