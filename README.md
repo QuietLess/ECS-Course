@@ -35,6 +35,7 @@ This repository documents my weekly course materials, assignments, notebooks, da
 | Week 9 | Day 3 · Code | Hugging Face Model Deployment | [Open in Colab](https://colab.research.google.com/drive/1Ldnqwlb06iB2fgK8db_fVch2FvanEeTF?usp=sharing) |
 | Week 10 | Day 1 · Code | Hugging Face Sentiment Analysis Model | [Open in Colab](https://colab.research.google.com/drive/1yA3OgfDACKLH-cUK6wBPS2wpWtp4mOOt?usp=sharing) · [View Data](https://github.com/QuietLess/ECS-Course/blob/main/data/train-00000-of-00001.parquet) |
 | Week 10 | Day 2 · Code Part 1 | Using the Gemini API | [Open in Colab](https://colab.research.google.com/drive/1J7QhH-pDyUB_JxbApsPV15Eifu6WNV2X?usp=sharing) |
+| Week 10 | Day 2 · Code Part 2 | Using the Gemini API | [Open in Colab](https://colab.research.google.com/drive/1g_a6GNLilOgCy9SVzetMpFJMDvNx7fPn?usp=sharing) |
 | Week 10 | Day 3 · Code | News Summarization with Hugging Face | [Open in Colab](https://colab.research.google.com/drive/1rhvOTFBRpdR55L_O3P_CXxom5GC30roo?usp=sharing) |
 
 ---
