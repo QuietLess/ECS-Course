@@ -37,6 +37,7 @@ This repository documents my weekly course materials, assignments, notebooks, da
 | Week 10 | Day 2 · Code Part 1 | Using the Gemini API | [Open in Colab](https://colab.research.google.com/drive/1J7QhH-pDyUB_JxbApsPV15Eifu6WNV2X?usp=sharing) |
 | Week 10 | Day 2 · Code Part 2 | Using the Gemini API | [Open in Colab](https://colab.research.google.com/drive/1g_a6GNLilOgCy9SVzetMpFJMDvNx7fPn?usp=sharing) |
 | Week 10 | Day 3 · Code | News Summarization with Hugging Face | [Open in Colab](https://colab.research.google.com/drive/1rhvOTFBRpdR55L_O3P_CXxom5GC30roo?usp=sharing) |
+| Week 11 | Day 1 · Code | OpenCV Image Processing and Streamlit Deployment | [Open in Colab](https://colab.research.google.com/drive/1U_8EEFDk3tyzels7HO3HwU6LQLP4Zgen?usp=sharing) · [Open Streamlit App](https://siyah-beyaz-yxztowfrxveckkxrmlxmut.streamlit.app/) · [View Data Files](https://drive.google.com/drive/folders/16gi0wHTRsEZUlMW4BZTeIjNdukWtW0dF?usp=share_link) |
 
 ---
 
@@ -57,6 +58,8 @@ This repository documents my weekly course materials, assignments, notebooks, da
 - Sentiment analysis and text summarization
 - Interface development with Gradio
 - Model deployment with Hugging Face Spaces
+- Computer vision and image processing with OpenCV
+- Interactive application deployment with Streamlit
 
 ---
 
